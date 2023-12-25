@@ -16,7 +16,6 @@ header {
 }
 
 h1 {
-    display: flex;
     font-size: 4.5ch;
 }
 
@@ -28,13 +27,11 @@ section {
 }
 
 h2 {
-    display: flex;
     text-align: center;
     font-size: 4ch;
 }
 
 h3 {
-    display: flex;
     text-align: center;
     font-size: 4ch;
 }
